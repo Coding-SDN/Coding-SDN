@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://evently-site.vercel.app)
+[![MasterHead](https://raw.githubusercontent.com/serverless-nextjs/serverless-next.js/master/img/logo.gif)](https://evently-site.vercel.app)
 <h1 align="center">Hi 👋, I'm MatTizx</h1>
 <h3 align="center">A passionate backend developer from U</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
