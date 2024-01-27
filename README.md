@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://evently-site.vercel.app)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://evently-site.vercel.app)
 <h1 align="center">Hi 👋, I'm MatTizx</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2DTphrwya_F8kAIz68DzX3&ust=1701561469665000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCOx8u474IDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2DTphrwya_F8kAIz68DzX3&ust=1701561469665000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCOx8u474IDFQAAAAAdAAAAABAE)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RKRHhmRnVNc0dzUThnY0ZJX25zOWM1VjgtUXxBQ3Jtc0ttSWNxQnlLaUZLaDZIR2k4Wkp4QnM1a2trSlRRYW9STDFKRUhWOXgyRE93RmZXdWx2ZjAwS3VtM2xwOFBtZVBXVkZQa0hzM290MDZqRE5ZN20xenRJUEUtYmliNUZ4eENJd2lqSFhxREpqdGo5ZFRfaw&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)">
+<h3 align="center">A passionate backend developer from U</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-sdn&label=Profile%20views&color=0e75b6&style=flat" alt="coding-sdn" /> </p>
 
