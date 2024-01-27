@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/steevemx98" target="blank"><img src="https://img.shields.io/twitter/follow/steevemx98?logo=twitter&style=for-the-badge" alt="steevemx98" /></a> </p>
 
-- 🔭 I’m currently working on [Car-hub](carhub-two.netlify.app)
+- 🔭 I’m currently working on [Evently](evently-site.vercel.app)
 
 - 🌱 I’m currently learning **NextJS, ReactJS, Vite.js**
 
